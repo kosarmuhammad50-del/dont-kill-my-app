@@ -1,4 +1,4 @@
----
+-<a href="https://dontkillmyapp.com/asus"><img id="badge-shareable" width="306px" src="https://dontkillmyapp.com/badge/asus3.svg"></a>--
 manufacturer:
     - asus
 
