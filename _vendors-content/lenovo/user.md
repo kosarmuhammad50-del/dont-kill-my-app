@@ -1,4 +1,4 @@
----
+<a href="https://dontkillmyapp.com/lenovo"><img id="badge-shareable" width="306px" src="https://dontkillmyapp.com/badge/lenovo3.svg"></a>
 manufacturer: 
     - lenovo
 
